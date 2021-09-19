@@ -5,14 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f90d8eaf-05dd-4256-8d8f-47617f18addc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.jpb/persistence-units.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/guru/springframework/msscbeerservice/web/model/BeerDto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/guru/springframework/msscbeerservice/web/model/BeerPagedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/guru/springframework/msscbeerservice/web/model/BeerStyleEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/guru/springframework/msscbeerservice/web/controller/BeerController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mssc-beer-service.iml" beforeDir="false" afterPath="$PROJECT_DIR$/mssc-beer-service.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,7 +87,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1631905442190</updated>
-      <workItem from="1631905443549" duration="4900000" />
+      <workItem from="1631905443549" duration="6818000" />
     </task>
     <task id="LOCAL-00001" summary="Intial project add. Closes #1">
       <created>1631910268523</created>
@@ -109,7 +103,14 @@
       <option name="project" value="LOCAL" />
       <updated>1631910426043</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Adding web data model closes #2">
+      <created>1632007168841</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1632007168841</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -118,6 +119,7 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Intial project add. Closes #1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Intial project add. Closes #1" />
+    <MESSAGE value="Adding web data model closes #2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding web data model closes #2" />
   </component>
 </project>
